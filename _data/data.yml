@@ -12,8 +12,6 @@ sidebar:
     
     # Sidebar links
     email: thorsten@thorstensiefert.de
-    phone: +49 2742 912406
-    website: www.thorstensiefert.de #do not add http://
     github: thorstensiefert
     twitter: '@thorstensiefert'
 
@@ -37,9 +35,6 @@ sidebar:
           link:
         - interest:
           item: Our Pets
-          link:
-        - interest:
-          item: Gardeing
           link:
         - interest:
           item: Football
