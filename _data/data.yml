@@ -2,7 +2,7 @@ sidebar:
     # Site Settings
     title: About me
     url: 'http://thorstensiefert.github.io'
-    baseurl: '/thorstensiefert.github.io' #change it according to your repository name
+    baseurl: '/' #change it according to your repository name
     about: false # set to False or comment line if you want to remove the "How to use?" in the sidebar
     
     # Profile information
